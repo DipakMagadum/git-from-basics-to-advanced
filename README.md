@@ -26,7 +26,7 @@ This repository covers the complete flow of Git and GitHub:
 
 ### 🟢 Basics
 
-![Basics](./basics.png)
+![Basics](./basics.jpeg)
 
 These notes explain what Git is, why it is needed, and how GitHub fits into the workflow.
 It helped me understand the core idea of version control and tracking changes.
@@ -35,7 +35,7 @@ It helped me understand the core idea of version control and tracking changes.
 
 ### 🌿 Branching
 
-![Branching](./branching.png)
+![Branching](./branching.jpeg)
 
 Branching was one of the most important concepts for me.
 It shows how multiple developers can work on different features without breaking the main code.
@@ -44,7 +44,7 @@ It shows how multiple developers can work on different features without breaking
 
 ### ⚙️ Commands
 
-![Commands](./commands.png)
+![Commands](./commands.jpeg)
 
 This section includes the Git commands I use regularly like:
 
@@ -60,7 +60,7 @@ Instead of just listing them, I tried to understand when and why to use each com
 
 ### 🔥 Advanced Concepts
 
-![Advanced](./advanced.png)
+![Advanced](./advanced.jpeg)
 
 This includes:
 
